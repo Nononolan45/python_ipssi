@@ -1,1 +1,0 @@
-print('Annoncez votre prix ?')
